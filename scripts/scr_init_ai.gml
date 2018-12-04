@@ -1,0 +1,9 @@
+is_ai               = true;
+reaction_time       = room_speed / 3;
+c_wound             = false; //if true   it wants to attack
+h_wound             = false; //if true   it wants to block
+target              = 0;
+key_right           = false;
+key_left            = false;
+enemy_attack_seen   = false;
+flee_distance       = 0;

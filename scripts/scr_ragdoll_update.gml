@@ -1,0 +1,12 @@
+torso_angle         = scr_ragdoll_pre_update(part_torso.id, map_torso, "torso", 0);
+head_angle          = scr_ragdoll_pre_update(part_head.id, map_head, "head", torso_angle);
+arm_angle           = scr_ragdoll_pre_update(part_arm.id, map_arm, "arm", torso_angle);
+hand_angle          = scr_ragdoll_pre_update(part_hand.id, map_hand, "hand", arm_angle + torso_angle);
+fist_angle          = scr_ragdoll_pre_update(part_fist.id, map_fist, "fist", arm_angle + torso_angle + hand_angle);
+backarm_angle       = scr_ragdoll_pre_update(part_backarm.id, map_backarm, "backarm", torso_angle);
+backhand_angle      = scr_ragdoll_pre_update(part_backhand.id, map_backhand, "backhand", backarm_angle + torso_angle);
+backfist_angle      = scr_ragdoll_pre_update(part_backfist.id, map_backfist, "backfist", backarm_angle + torso_angle + backhand_angle);
+leg_angle           = scr_ragdoll_pre_update(part_leg.id, map_leg, "leg", 0);
+foot_angle          = scr_ragdoll_pre_update(part_foot.id, map_foot, "foot", leg_angle);
+backleg_angle       = scr_ragdoll_pre_update(part_backleg.id, map_backleg, "backleg", 0);
+backfoot_angle      = scr_ragdoll_pre_update(part_backfoot.id, map_backfoot, "backfoot", backleg_angle);

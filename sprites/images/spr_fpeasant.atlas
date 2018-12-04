@@ -1,0 +1,411 @@
+
+spr_fpeasant.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+char alliance/blightsword
+  rotate: true
+  xy: 1, 127
+  size: 68, 317
+  orig: 68, 317
+  offset: 0, 0
+  index: -1
+char alliance/mask
+  rotate: true
+  xy: 1399, 112
+  size: 52, 68
+  orig: 52, 68
+  offset: 0, 0
+  index: -1
+char_0/downfoot
+  rotate: true
+  xy: 887, 69
+  size: 56, 29
+  orig: 56, 29
+  offset: 0, 0
+  index: -1
+char_0/fingers
+  rotate: true
+  xy: 382, 1
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+char_0/hat
+  rotate: false
+  xy: 1142, 117
+  size: 96, 46
+  orig: 96, 46
+  offset: 0, 0
+  index: -1
+char_0/sword
+  rotate: true
+  xy: 370, 144
+  size: 111, 232
+  orig: 111, 232
+  offset: 0, 0
+  index: -1
+char_0/thumb
+  rotate: false
+  xy: 1063, 106
+  size: 15, 22
+  orig: 33, 39
+  offset: 18, 13
+  index: -1
+char_aromred_guard/greatsword
+  rotate: false
+  xy: 1, 196
+  size: 368, 59
+  orig: 368, 59
+  offset: 0, 0
+  index: -1
+char_aromred_guard/head
+  rotate: false
+  xy: 382, 21
+  size: 65, 78
+  orig: 65, 78
+  offset: 0, 0
+  index: -1
+char_fpeasant/arm
+  rotate: false
+  xy: 535, 25
+  size: 38, 70
+  orig: 38, 70
+  offset: 0, 0
+  index: -1
+char_fpeasant/backarm
+  rotate: true
+  xy: 1468, 115
+  size: 28, 71
+  orig: 28, 71
+  offset: 0, 0
+  index: -1
+char_fpeasant/backfist
+  rotate: false
+  xy: 851, 3
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+char_fpeasant/backfoot
+  rotate: false
+  xy: 347, 1
+  size: 34, 97
+  orig: 34, 97
+  offset: 0, 0
+  index: -1
+char_fpeasant/backhand
+  rotate: false
+  xy: 664, 16
+  size: 33, 66
+  orig: 33, 66
+  offset: 0, 0
+  index: -1
+char_fpeasant/backleg
+  rotate: true
+  xy: 1882, 207
+  size: 48, 100
+  orig: 48, 100
+  offset: 0, 0
+  index: -1
+char_fpeasant/downfoot
+  rotate: false
+  xy: 917, 100
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+char_fpeasant/fist
+  rotate: true
+  xy: 818, 3
+  size: 23, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+char_fpeasant/foot
+  rotate: false
+  xy: 297, 1
+  size: 49, 97
+  orig: 49, 97
+  offset: 0, 0
+  index: -1
+char_fpeasant/hair_2
+  rotate: false
+  xy: 832, 73
+  size: 54, 52
+  orig: 54, 52
+  offset: 0, 0
+  index: -1
+char_fpeasant/hair_2_under
+  rotate: false
+  xy: 966, 95
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+char_fpeasant/hair_on
+  rotate: false
+  xy: 474, 38
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+char_fpeasant/hair_under
+  rotate: true
+  xy: 763, 47
+  size: 34, 54
+  orig: 34, 54
+  offset: 0, 0
+  index: -1
+char_fpeasant/hand
+  rotate: false
+  xy: 448, 26
+  size: 25, 73
+  orig: 25, 73
+  offset: 0, 0
+  index: -1
+char_fpeasant/head
+  rotate: true
+  xy: 765, 1
+  size: 45, 52
+  orig: 45, 52
+  offset: 0, 0
+  index: -1
+char_fpeasant/leg
+  rotate: true
+  xy: 1670, 203
+  size: 52, 105
+  orig: 52, 105
+  offset: 0, 0
+  index: -1
+char_fpeasant/pubic
+  rotate: false
+  xy: 768, 82
+  size: 63, 43
+  orig: 63, 43
+  offset: 0, 0
+  index: -1
+char_fpeasant/skirt_on
+  rotate: false
+  xy: 603, 115
+  size: 164, 140
+  orig: 164, 140
+  offset: 0, 0
+  index: -1
+char_fpeasant/skirt_under
+  rotate: false
+  xy: 768, 126
+  size: 146, 129
+  orig: 146, 129
+  offset: 0, 0
+  index: -1
+char_fpeasant/torso
+  rotate: true
+  xy: 1150, 164
+  size: 91, 160
+  orig: 91, 160
+  offset: 0, 0
+  index: -1
+char_peasant/arm
+  rotate: true
+  xy: 1239, 115
+  size: 48, 79
+  orig: 48, 79
+  offset: 0, 0
+  index: -1
+char_peasant/backarm
+  rotate: true
+  xy: 1319, 118
+  size: 46, 79
+  orig: 46, 79
+  offset: 0, 0
+  index: -1
+char_peasant/backfist
+  rotate: false
+  xy: 1000, 102
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+char_peasant/backfoot
+  rotate: true
+  xy: 370, 100
+  size: 43, 105
+  orig: 43, 105
+  offset: 0, 0
+  index: -1
+char_peasant/backhand
+  rotate: false
+  xy: 683, 84
+  size: 79, 30
+  orig: 79, 30
+  offset: 0, 0
+  index: -1
+char_peasant/backleg
+  rotate: true
+  xy: 1561, 201
+  size: 54, 108
+  orig: 54, 108
+  offset: 0, 0
+  index: -1
+char_peasant/fist
+  rotate: true
+  xy: 917, 70
+  size: 29, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+char_peasant/foot
+  rotate: false
+  xy: 1079, 122
+  size: 62, 98
+  orig: 62, 98
+  offset: 0, 0
+  index: -1
+char_peasant/hand
+  rotate: true
+  xy: 603, 83
+  size: 31, 79
+  orig: 31, 79
+  offset: 0, 0
+  index: -1
+char_peasant/head
+  rotate: false
+  xy: 612, 23
+  size: 51, 59
+  orig: 51, 59
+  offset: 0, 0
+  index: -1
+char_peasant/leg
+  rotate: false
+  xy: 244, 14
+  size: 52, 112
+  orig: 52, 112
+  offset: 0, 0
+  index: -1
+char_peasant/mug
+  rotate: false
+  xy: 818, 27
+  size: 52, 45
+  orig: 52, 45
+  offset: 0, 0
+  index: -1
+char_peasant/pubic
+  rotate: false
+  xy: 1983, 200
+  size: 64, 55
+  orig: 64, 55
+  offset: 0, 0
+  index: -1
+char_peasant/torso
+  rotate: true
+  xy: 915, 129
+  size: 91, 163
+  orig: 91, 163
+  offset: 0, 0
+  index: -1
+char_simple soldier/witcher_sword
+  rotate: true
+  xy: 915, 221
+  size: 34, 234
+  orig: 34, 234
+  offset: 0, 0
+  index: -1
+char_strawhat/hat
+  rotate: false
+  xy: 1470, 177
+  size: 90, 78
+  orig: 90, 78
+  offset: 0, 0
+  index: -1
+char_strawhat/katana
+  rotate: true
+  xy: 1, 11
+  size: 115, 242
+  orig: 115, 242
+  offset: 0, 0
+  index: -1
+char_wife/arm
+  rotate: false
+  xy: 574, 1
+  size: 37, 68
+  orig: 37, 68
+  offset: 0, 0
+  index: -1
+char_wife/backarm
+  rotate: true
+  xy: 1470, 144
+  size: 32, 72
+  orig: 32, 72
+  offset: 0, 0
+  index: -1
+char_wife/backfoot
+  rotate: true
+  xy: 1561, 166
+  size: 34, 97
+  orig: 34, 97
+  offset: 0, 0
+  index: -1
+char_wife/backhand
+  rotate: true
+  xy: 698, 5
+  size: 33, 66
+  orig: 33, 66
+  offset: 0, 0
+  index: -1
+char_wife/backleg
+  rotate: true
+  xy: 476, 96
+  size: 47, 99
+  orig: 47, 99
+  offset: 0, 0
+  index: -1
+char_wife/fist
+  rotate: true
+  xy: 1030, 105
+  size: 23, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+char_wife/foot
+  rotate: false
+  xy: 319, 99
+  size: 50, 96
+  orig: 50, 96
+  offset: 0, 0
+  index: -1
+char_wife/hand
+  rotate: false
+  xy: 576, 70
+  size: 26, 73
+  orig: 26, 73
+  offset: 0, 0
+  index: -1
+char_wife/leg
+  rotate: true
+  xy: 1776, 203
+  size: 52, 105
+  orig: 52, 105
+  offset: 0, 0
+  index: -1
+char_wife/pubic
+  rotate: false
+  xy: 698, 39
+  size: 64, 44
+  orig: 64, 44
+  offset: 0, 0
+  index: -1
+char_wife/torso
+  rotate: true
+  xy: 1311, 165
+  size: 90, 158
+  orig: 90, 158
+  offset: 0, 0
+  index: -1
+none
+  rotate: false
+  xy: 474, 98
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

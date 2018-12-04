@@ -1,0 +1,9 @@
+physics_joint_delete(joint_arm);
+physics_joint_delete(joint_hand);
+physics_joint_delete(joint_backarm);
+physics_joint_delete(joint_backhand);
+physics_joint_delete(joint_leg);
+physics_joint_delete(joint_foot);
+physics_joint_delete(joint_backleg);
+physics_joint_delete(joint_backfoot);
+physics_joint_delete(joint_head);

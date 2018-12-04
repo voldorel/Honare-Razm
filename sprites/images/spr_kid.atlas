@@ -1,0 +1,96 @@
+
+spr_kid.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+char daughter/arm
+  rotate: true
+  xy: 178, 78
+  size: 20, 45
+  orig: 20, 45
+  offset: 0, 0
+  index: -1
+char daughter/backfist
+  rotate: false
+  xy: 114, 52
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+char daughter/backfoot
+  rotate: true
+  xy: 120, 73
+  size: 25, 57
+  orig: 25, 57
+  offset: 0, 0
+  index: -1
+char daughter/backleg
+  rotate: true
+  xy: 120, 99
+  size: 28, 56
+  orig: 28, 56
+  offset: 0, 0
+  index: -1
+char daughter/downfoot
+  rotate: true
+  xy: 234, 101
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1
+char daughter/fist
+  rotate: false
+  xy: 131, 52
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+char daughter/foot
+  rotate: true
+  xy: 1, 1
+  size: 24, 58
+  orig: 24, 58
+  offset: 0, 0
+  index: -1
+char daughter/hand
+  rotate: true
+  xy: 66, 24
+  size: 16, 46
+  orig: 16, 46
+  offset: 0, 0
+  index: -1
+char daughter/head
+  rotate: false
+  xy: 66, 74
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+char daughter/leg
+  rotate: true
+  xy: 177, 99
+  size: 28, 56
+  orig: 28, 56
+  offset: 0, 0
+  index: -1
+char daughter/pubic
+  rotate: false
+  xy: 66, 41
+  size: 47, 32
+  orig: 47, 32
+  offset: 0, 0
+  index: -1
+char daughter/torso
+  rotate: false
+  xy: 1, 26
+  size: 64, 101
+  orig: 64, 101
+  offset: 0, 0
+  index: -1
+none
+  rotate: false
+  xy: 178, 76
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,5 @@
+RSA="MIHNMA0GCSqGSIb3DQEBAQUAA4G7ADCBtwKBrwCaqV7SsYmoN5wpg0WO5DSeM2ybtmWyDw/5m6D9XVtxgLhfOh4blA7i/1N3LvCBOY2wSrKlW92BCybl0dRwpHFYKwavwW13lKkOqkxc3N/D+m2dwHfirafbIl5DY+X4SrWsAMcI28Rhf5qlS00PZoOnB/YvezUYEAPwa1hOW5Djxo5he6DtCyrZQkxNxz+Ltx/gcJGaK8+uMO7RMhP+J+tuoqzcNYMppKFRWJSkXG8CAwEAAQ==";
+Consumables="hr_coins_1100,hr_coins_3000,hr_coins_10000,hr_ep_1,hr_armorer,hr_weaponmaster";
+nonConsumables="";
+
+MD = mdBazaarIAB_init(RSA,Consumables,nonConsumables);

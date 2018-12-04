@@ -1,0 +1,9 @@
+stand_anim          = "stand";
+walk_anim           = "walk";
+run_anim            = "run";
+runback_anim        = "runback";
+current_anim        = "stand";
+current_attack_anim = "greysword_art_1";
+prev_anim           = "stand";
+dash_anim           = "dash";
+pushed_anim         = "pushed";

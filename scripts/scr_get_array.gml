@@ -1,0 +1,1 @@
+return attack_anim;

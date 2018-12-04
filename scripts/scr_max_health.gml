@@ -1,0 +1,1 @@
+return total_health;
